@@ -7,12 +7,352 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The 2023 General Studies Student Survey found that 51 percent of undergraduate non-dual degree School of General Studies respondents anticipate being over $40,000 in debt by the time they graduate."
+          },
+          {
+            "type": "text",
+            "value": "The survey also found that both an increase in food insecurity and the distance a student lives from campus correlate to a decline in grade point average."
+          },
+          {
+            "type": "text",
+            "value": "Four General Studies senior administrators—Dean Lisa Rosen-Metsch, Vice Dean Curtis Rodgers, Dean of Students Marlyn Delva, and Dean of Academic Affairs Caroline Marvin—presented the results of the survey at the General Studies Student Council town hall on Feb. 27."
+          },
+          {
+            "type": "text",
+            "value": "The survey was opened on Feb. 15, 2023 to the entire General Studies student body, including dual degree students and students in the post-baccalaureate, pre-medical program."
+          },
+          {
+            "type": "text",
+            "value": "The survey collected data about at least 20 topics, including admissions, financial aid, food and housing security, and student well-being. The goal of the survey, which was last conducted in 2018, is to aid administrators by indicating areas in which General Studies can “improve services, understand the student experience, and properly frame the way we think about future priorities,” according to a Feb. 15, 2023 email sent by Rosen-Metsch to General Studies students."
+          },
+          {
+            "type": "text",
+            "value": "“When someone would ask ‘what is [ our highest priorities for GS? What do we raise money for? What is our biggest goals?’ Number one is financial aid, number two is housing,” Rosen-Metsch said at the town hall. She said that these priorities are driven by the data collected during both the 2018 and 2023 surveys."
+          },
+          {
+            "type": "text",
+            "value": "The survey was largely representative of the General Studies community, as the proportion of respondents from categories including veterans, Pell Grant recipients, first-generation, and low-income, aligned with the student population with a no more than 2 percent difference."
+          },
+          {
+            "type": "text",
+            "value": "The survey boasted a 67 percent response rate, exceeding the 56 percent response rate in 2018. According to Rosen-Metsch, this was achieved in part through the appointment of students as “Survey Ambassadors,” social media promotion, email reminders, and the incentive of $25 deposited to the Flex accounts of all students who completed the survey."
+          },
+          {
+            "type": "text",
+            "value": "“In my decades of being in academia, I’ve never seen such a high response rate,” Rosen-Metsch said when presenting the results. “So that means … you can feel very confident that this represents more than two-thirds of our GS students.”"
+          },
+          {
+            "type": "text",
+            "value": "The survey provides some of the first public evidence of the increase in traditional-aged students through the growth of dual degree programs. Since 2018, two dual degree programs—with Trinity College Dublin and Tel Aviv University—have opened. Dual-degree students now make up 20 percent of the General Studies population."
+          },
+          {
+            "type": "text",
+            "value": "Over the past 10 years, the average age of a General Studies undergraduate student has declined from 29 to 26. The survey results show that for undergraduate non-dual degree students, the average age is still 29. However, the average age of a dual degree student is 21."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "dualdegree.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The most significant factor affecting student well-being for all students is academic-related stress. All students, regardless of first-generation or income status, are nearly equally affected by academic stress, mental health challenges, and physical health challenges. Students who are first-generation experience higher rates of family stress and students who are neither first-generation nor low-income are more impacted by time management struggles."
+          },
+          {
+            "type": "text",
+            "value": "Financial aid has the largest difference in impact, with first-generation or low-income students affected by a rate at least 27 percentage points higher than students who are not first-generation or low-income."
+          },
+          {
+            "type": "text",
+            "value": "<b>FINANCIAL AID AND STRESSORS</b>"
+          },
+          {
+            "type": "text",
+            "value": "Unlike Columbia’s other undergraduate schools, where students pay a flat tuition rate, General Studies students pay per credit. Starting in fall 2023, General Studies lowered the tuition cap to 16 credits to ensure that students taking 16 credits or more pay the same rate as students in other undergraduate schools. Previously, the tuition cap was 17 credits. Financial aid packages for General Studies students generally max out at 12 credits. Accordingly, many undergraduates at General Studies, who are not in a dual degree program,aim to take exactly 12 credits to minimize their tuition costs."
+          },
+          {
+            "type": "text",
+            "value": "“Our financial aid does use 12 credits as full time (as per the Registrar) and financial aid awards do not increase above 12 credits in a term. Historically, non Joint/Dual undergraduate students at GS average around 12 to 13 credits per term,” Rodgers wrote in a statement to Spectator. “As you know, last year we increased eligibility for GS financial aid to include part time students enrolled in 1 to 5 credits (previously you had to enroll for 6 credits or more in a term) and we have been evaluating increasing our full time cap to 15 credits per term as we continue to improve GS financial aid over time.”"
+          },
+          {
+            "type": "text",
+            "value": "Over half of the survey’s respondents reported financial strain during their time at Columbia. Seventy percent of non-dual degree undergraduates reported worries about paying school tuition, monthly expenses, or being unable to participate in the same activities as their peers. Forty-four percent of dual degree students indicated that they experience financial strain."
+          },
+          {
+            "type": "text",
+            "value": "First-generation and low-income General Studies students reported the highest rates of financial strain at 80 percent. Currently, the percentage of low-income students, eligible for Pell Grant, in General Studies is more than double the percentages in Columbia College and the School of Engineering and Applied Science."
+          },
+          {
+            "type": "text",
+            "value": "Humberto Romero Gonzalez, GS ’25—a member of <a href=\"https://www.columbiaspectator.com/news/2022/11/14/students-in-general-studies-demand-changes-to-university-policies-regarding-financial-aid-diplomas/\">Equality for GS</a>, a student-run group advocating for financial aid to match that of Columbia College and SEAS—said in an interview with Spectator that the lack of institutional support for FLI General Studies students is “not fair.”"
+          },
+          {
+            "type": "text",
+            "value": "“It’s almost like using [FLI students] as a token and exploiting them for being a minority but not even giving them what they need,” Romero Gonzalez said. “And I think we should focus on the diversity that exists here at GS—of low-income, first-generation—because we are helping them go up the ladder economically and financially.”"
+          },
+          {
+            "type": "text",
+            "value": "In a statement to Spectator, a School of General Studies spokesperson wrote that the school recognizes that, “For many newly admitted GS students, financing their education is the most important part of their decision on whether to enroll at Columbia.”"
+          },
+          {
+            "type": "text",
+            "value": "“We are very mindful of this fact and are very clear to prospective and admitted students that GS does not meet full financial need and that they should weigh their financial options before committing to attend,” the spokesperson wrote."
+          },
+          {
+            "type": "text",
+            "value": "Financial aid information is available on the General Studies website and is given in admitted student presentations and financial aid presentations, according to the spokesperson. The presentations are mandatory for admitted students who indicated they will apply for financial aid. Admitted students also receive educational financing counseling sessions and receive digital and print materials with the information."
+          },
+          {
+            "type": "text",
+            "value": "“Admitted students are not and have never been required to submit a deposit before receiving their financial aid package,” the spokesperson wrote."
+          },
+          {
+            "type": "text",
+            "value": "Financial concerns significantly impacted students’ academics, with 80 percent of respondents indicating some form of academic impact. Over half of the survey’s respondents reported changing their post-graduation plans due to financial concerns. Nearly a quarter of students considered changing their major. About 7.6 percent of respondents reported they changed their major since matriculating due to it being too expensive to take all the classes needed to fulfill their major requirements."
+          },
+          {
+            "type": "text",
+            "value": "The data shows a disproportionate effect on first-generation and low-income students. Forty-seven percent of all respondents reported neglecting their academic work due to financial concerns. However, over 60 percent of FLI students indicated this neglect, whereas only 31 percent of students who are neither first-generation nor low-income indicated neglecting their academic work due to financial concerns. Similar disparities are seen amongst students who needed to change their major or reduce their class load."
+          },
+          {
+            "type": "text",
+            "value": "Romero Gonzalez said that seeing the survey results made him realize that General Studies students’ grades and academic journeys are “compromised” due to higher rates of food and housing insecurity and juggling work and long commutes. He said the results also show that students “don’t have the aid they need to continue their studies and focus.”"
+          },
+          {
+            "type": "text",
+            "value": "Funding for the School of General Studies financial aid has increased 42 percent since 2019, from $28.8 million in the 2018-19 academic year to $41.1 million in the 2023-24 academic year, according to Rodgers."
+          },
+          {
+            "type": "text",
+            "value": "“The largest takeaway was that we need to continue to improve financial support for GS students,” Rodgers wrote in a statement to Spectator. “One of the reasons why we added additional questions to the 2023 GS survey was because of what we learned in 2018. We felt we needed more information and context for student concerns around finances, housing, and well-being.”"
+          },
+          {
+            "type": "text",
+            "value": "“We are proud of Columbia General Studies, the only fully integrated undergraduate program in the Ivy League dedicated to serving nontraditional students, including those who have taken a break in their studies, those transferring from community college, U.S. military veterans, and those in dual and joint degree programs,” University spokesperson Ben Chang wrote in a statement to Spectator. “Columbia and GS are committed to providing support for nontraditional students navigating their educational expenses.”"
+          },
+          {
+            "type": "text",
+            "value": "Students like Martha Lebron, GS ’24, turn to full-time employment to pay tuition. Lebron said that she could have finished her degree in about two years because of her transfer credits from her previous university, but is taking four years to complete her degree due to her work commitments. This semester, she built her schedule to only have classes on two days, to minimize her commute and maximize her working hours."
+          },
+          {
+            "type": "text",
+            "value": "“Working is just very strategically done, so that I can focus on studying,” Lebron said. “I’ve had to give up a lot of social events, for example, on the weekends, because my weekends are basically dedicated to doing my homework and studying and reading.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>FOOD INSECURITY</b>"
+          },
+          {
+            "type": "text",
+            "value": "Food insecurity also disproportionately affects undergraduate non-dual degree students, according to the survey. Based on the data collected, administrators were able to examine the correlation between food security levels and GPA."
+          },
+          {
+            "type": "text",
+            "value": "Food insecurity was one of the focal points of the 2018 General Studies student survey. From that data, administrators implemented a subsidized dining plan, which is currently offered to 1,234 General Studies students. According to the 2023 survey, 90 percent of respondents who are participants in the meal plan reported that it helps alleviate food insecurity."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "foodinsecurity.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The results of the 2018 survey also drove General Studies support for other food security initiatives, including the food pantry and emergency meal swipes. The food pantry was an initiative started by General Studies students in 2016 as the “GSSC Food Bank,” which has now expanded to become the Food Pantry at Columbia and serves the whole Columbia community, with support from the University."
+          },
+          {
+            "type": "text",
+            "value": "[<i>Read More: </i><a href=\"https://www.columbiaspectator.com/news/2023/09/14/demand-for-columbias-food-pantry-has-grown-for-years-now-the-administration-is-stepping-in/\"><i>Demand for Columbia’s food pantry has grown for years. Now, the administration is stepping in.</i></a>]"
+          },
+          {
+            "type": "text",
+            "value": "“Columbia is dedicated to supporting students through the two food pantry locations, as well as assessing other potential needs and opportunities for expansion. University Life continues to assess the food pantry services and adjust to better meet student needs,” a University official wrote in a statement to Spectator.“For example, U Life is working on plans to expand resources to provide fresh food. U Life is in the final stages of developing a [Memorandum of Understanding] with an outside resource to assist in the expansion. University Life will use the [Lived Experiences and Needs of Students] survey results and work with student leaders, as well as continually engaging with current participants, to assess what improvements can be made moving forward.”"
+          },
+          {
+            "type": "text",
+            "value": "Despite these changes, food insecurity has risen compared to the 2018 survey. In 2018, 36 percent of the respondents reported being impacted by food insecurity, with 40 percent of undergraduate non-dual degree students and 18 percent of dual degree students indicating food insecurity. In 2023, 40 percent of respondents reported being food insecure, with 46 percent of undergraduate non-dual degree students and 28 percent of dual degree students indicating food insecurity."
+          },
+          {
+            "type": "text",
+            "value": "Lisa Ronan, GS ’24, who raised a family before starting at General Studies, said the cost and inaccessibility of nutritious food in New York City limited her options for adequate meals while in school. She said that she noticed an impact on her academic performance during days when she didn’t eat enough."
+          },
+          {
+            "type": "text",
+            "value": "“It made me doubt myself, frankly,” Ronan said. “I felt like it was my fault that I was sleepy and I couldn’t understand stuff. And then it was just so apparent after I got food … I was able to get through things just fine.”"
+          },
+          {
+            "type": "text",
+            "value": "Survey results show a correlation between GPA and food insecurity. Seventy-three percent of students with a 2.0 GPA or less suffer from food insecurity. Only 34 percent of respondents with a 4.0 GPA or above are impacted by food insecurity."
+          },
+          {
+            "type": "text",
+            "value": "“As for the food insecurity results, yes, we saw the increase and know that we will need to continue to work on initiatives that reduce food insecurity for our students,” Rodgers wrote in a statement to Spectator. “We were pleased to see some indicators that these initiatives are having an impact, including data that show that 90% of participants in the GS meal plan indicated it helped alleviate their food insecurity.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>HOUSING SECURITY</b>"
+          },
+          {
+            "type": "text",
+            "value": "The other top priority identified by General Studies administrators was housing. Currently, General Studies only meets 50 percent of student demand for housing, according to the town hall presentation. Housing is only guaranteed for students in dual and joint-degree programs. Only 43 percent of undergraduate, non-dual degree students live within 15 minutes of campus, according to the survey. Only 31 percent of students in the postbac premedical program live within 15 minutes of campus."
+          },
+          {
+            "type": "text",
+            "value": "In the 12 months preceding the survey, some form of housing insecurity affected 53 percent of survey respondents. Four percent of respondents indicated they had been homeless at some point, which is higher than the rate of homelessness in New York City, where roughly 1.2 percent of residents experience homelessness. 17 percent of GS students indicated they did not pay, or underpaid, their rent or mortgage, and 18 percent did not pay the full amount of a utility bill."
+          },
+          {
+            "type": "text",
+            "value": "40 percent of respondents indicated that a rent or mortgage increase made it difficult for them to pay. This could be a symptom of a post-COVID landscape that has seen New York City landlords increasing rent at significant rates. According to the New York City Comptroller <a href=\"https://comptroller.nyc.gov/reports/spotlight-new-york-citys-rental-housing-market/\">website</a>, New York City rent is up 17 percent compared to pre-pandemic levels, and according to a New York Times <a href=\"https://www.nytimes.com/2022/07/26/realestate/nyc-apartments-covid-discount.html\">report</a>, 40 percent of available housing units on the market are from tenants that were priced out."
+          },
+          {
+            "type": "text",
+            "value": "Survey results also show a correlation between the distance a student lives from campus and their GPA, with a gradual decline as the distance increases. For example, the survey shows a 0.19-point difference between students living within 15 minutes of campus and students living 60 minutes or more from campus."
+          },
+          {
+            "type": "text",
+            "value": "About 20 percent of FLI students live over an hour away from campus, whereas roughly 15 percent of students who are neither first-generation nor low-income live more than 30 minutes away from campus. 72 percent of FLI students experience some form of housing insecurity."
+          },
+          {
+            "type": "text",
+            "value": "“Columbia GS has partnered with Columbia Residential over the last 10 years to significantly increase the number of GS students in Columbia housing and to provide housing to students guaranteed housing through our dual degree programs,” the General Studies spokesperson wrote in their statement to Spectator. “We have also partnered with Columbia Residential to offer a variety of housing types to accommodate the diverse GS student body, including shared rooms and family housing. We remain committed to continuing to find solutions for all GS students who request Columbia housing.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "housinginsecurity.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Lebron is a parent, works full time, and lives on the Upper East Side. She said it takes her an hour to commute to school with public transportation. The commute impacts how she schedules her classes, and it even causes her to miss office hours because she doesn’t have time to attend, Lebron said."
+          },
+          {
+            "type": "text",
+            "value": "“I have to schedule my classes around not having to come back to my house because then that will take me a whole day,” Lebron said. “So my classes are scheduled within an hour separation or one after the other.”"
+          },
+          {
+            "type": "text",
+            "value": "Instead of utilizing resources like the Academic Resource Center, Lebron said she needs to pay out of pocket for tutors because of scheduling and commuting conflicts."
+          },
+          {
+            "type": "text",
+            "value": "“I can’t participate in anything else [like extracurricular activities] sometimes,” Lebron said."
+          },
+          {
+            "type": "text",
+            "value": "<b>LOOKING TO THE FUTURE</b>"
+          },
+          {
+            "type": "text",
+            "value": "Romero Gonzalez said that although there are now results showing student frustrations of housing and tuition, he feels that the University does not prioritize the distinct issues General Studies students face, such as their inability to fully take advantage of networking or other activities due to their financial struggles."
+          },
+          {
+            "type": "text",
+            "value": "“That’s where [EFGS] comes in,” Romero Gonzalez said. “We want to be treated, or we want to be in the equal perspective as CC, [we] want to have access to networking events, to applying for jobs, to going to extracurricular activities that will enrich our experience here at Columbia and we cannot do that because we are not equally treated financially.”"
+          },
+          {
+            "type": "text",
+            "value": "Despite the debt and strain, an overwhelming majority of students, from all programs, report being optimistic about their future finances. According to the survey, 65 percent of respondents expressed optimism about their future, their ability to support themselves financially, or their belief that their education has been a good investment in their futures."
+          },
+          {
+            "type": "text",
+            "value": "Noah Widmann, GS ’20, wrote <a href=\"https://www.columbiaspectator.com/opinion/2018/10/23/fatherhood-debt-and-the-undergraduate-experience/\">an op-ed</a> for Spectator as a sophomore in 2018. At the time, he expressed anxiety, uncertainty, and regret over the student loans he was forced to take out to attend General Studies. He questioned his future and shared many of the same sentiments General Studies students today express. Five years later, in April 2023, Widmann published <a href=\"https://www.columbiaspectator.com/opinion/2023/04/27/a-love-letter-to-general-studies/\">a follow-up op-ed</a> in the Spectator expressing gratitude to General Studies for the path it took him down and the opportunities it created, but still reiterating that General Studies needs to do better with financial aid."
+          },
+          {
+            "type": "text",
+            "value": "Romero Gonzalez said that students coming from low-income backgrounds struggle even more with finding ways to ask for help, specifically due to the shame that can be associated with it."
+          },
+          {
+            "type": "text",
+            "value": "“[Low-income students] begin to create a pattern, a cycle that taps into this pattern where they’re not getting the help they need, they’re not advocating for themselves, they’re getting tired and challenged mentally by the struggles that they become exhausted and dropout, or take a medical leave and ultimately just end up struggling,” Romero Gonzalez said."
+          },
+          {
+            "type": "text",
+            "value": "Feelings of inclusion and belonging are universally high. Over 75 percent of respondents report feeling like they belong at Columbia. At similar rates, students are highly satisfied with advising, student life, the educational financing office, and both academic and non-academic support services."
+          },
+          {
+            "type": "text",
+            "value": "After the 2018 survey, responses indicated that Academic Support Services needed to be enhanced. Following these results, administrators made investments to the Academic Resource Center, which moved to a larger space on 112th and Broadway in 2020."
+          },
+          {
+            "type": "text",
+            "value": "The 2018 data also provided the guidance necessary for the implementation of the GS Student Success Portal in Salesforce, which was described by Rodgers as “one of the significant improvements to the GS student experience over the last few years.” 86 percent of students reported being satisfied with the portal. 70 percent of students are in favor of adding a function to the portal that will allow them to track their progress toward their degree."
+          },
+          {
+            "type": "text",
+            "value": "Improvements to the financial aid system and streamlining GS communications were other improvements made based on feedback from the 2018 survey."
+          },
+          {
+            "type": "text",
+            "value": "One question on the student survey asked about Latin diploma preferences. 58 percent of respondents to the student survey indicated a preference for Latin diplomas. On the same PowerPoint slide, it was shown that 57 percent of a random sample of alumni surveyed in an unrelated survey indicated a preference for Latin diplomas."
+          },
+          {
+            "type": "text",
+            "value": "While presenting the survey results in February, Rosen-Metsch said she would not be making a decision that day, but the data would help inform the decision. Less than three weeks later, Rosen-Metsch announced in a March 18 email to the student body that Latin diplomas would be presented to General Studies students beginning in May."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read More: </i><a href=\"https://www.columbiaspectator.com/news/2024/03/19/school-of-general-studies-to-issue-latin-diplomas-beginning-in-may/\"><i>School of General Studies to issue Latin diplomas beginning in May</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "GSSC Vice President of Campus Life Katherine Zimmermann, GS ’24, hopes to use the survey results to push for policies that could address concerns such as accessible locations of General Studies events for commuting students."
+          },
+          {
+            "type": "text",
+            "value": "“I’m personally hoping that the admin utilizes this data, if it’s truly not the numbers they were expecting, that they utilize it to inform their decisions on campus and about like how our student life is run or how the deans approach things like P/D/F, Latin diplomas, [and] the other data points in the survey,” Zimmerman said."
+          },
+          {
+            "type": "text",
+            "value": "To better support shifting student interests, GSSC voted in November to raise the student life fee by $22, from $98 in the 2023-24 academic year to $120 in the 2024-25 academic year."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read More: </i><a href=\"https://www.columbiaspectator.com/news/2023/12/08/gssc-votes-to-increase-student-activities-fee-to-address-inflation-fund-increasing-demand-for-programming/\"><i>GSSC votes to increase student activities fee to address inflation, fund increasing demand for programming</i></a><i>] </i>"
+          },
+          {
+            "type": "text",
+            "value": "After Minouche Shafik was announced as University president, a group of members of the Faculty of Arts and Sciences at Columbia sent her an open letter urging her to prioritize equality for General Studies, specifically with financial aid."
+          },
+          {
+            "type": "text",
+            "value": "During her inauguration speech, Shafik praised General Studies students for bringing “a wealth of nontraditional life experiences,” to the Columbia community, and one of her priorities is focused on improving the undergraduate student experience. Rosen-Metsch said that she had already shared the survey data with Shafik."
+          },
+          {
+            "type": "text",
+            "value": "“We have already had the opportunity to share it with our new Columbia University president. And it’s very, very good timing to have this data as one of the priorities of our new Columbia University president is to focus on the undergraduate student experience,” Rosen-Metsch said. “And our school, Columbia School of General Studies, and our students are very key to those initiatives going forward.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Chris Mendell can be contacted at </i><a href=\"mailto:chris.mendell@columbiaspectator.com\"><i>chris.mendell@columbiaspectator.com</i></a><i>. Follow him on X </i><a href=\"http://twitter.com/chrismendelljr\"><i>@ChrisMendellJr</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Senior Staff Writer Gelila Negesse can be contacted at </i><a href=\"mailto:gelila.negesse@columbiaspectator.com\"><i>gelila.negesse@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://mobile.twitter.com/gelila_nn\"><i>@gelila_nn</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Deputy Editor Diya Nair can be contacted at </i><a href=\"mailto:diya.nair@columbiaspectator.com\"><i>diya.nair@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://twitter.com/diyana1r?s=21&t=YKbrfnJYTVoHCHmurLtVtA\"><i>@diyanai1r</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i> </i><b><i>Want to keep up with breaking news? Subscribe to our</i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i> </i></b></a><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter</i></b></a><b><i> </i></b><b><i>and like Spectator on</i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i> </i></b></a><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "General Studies student survey highlights financial aid struggles",
+        "date": "April 10, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/chris-mendell/\">Chris Mendell</a> and <a href=\"https://www.columbiaspectator.com/contributors/gelila-negesse/\">Gelila Negesse</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/diya-nair/\">Diya Nair</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/VDW5CPTBWJDGZAI6TUJ4PVGFKI.jpg",
+        "cover_caption": "Gabriella Gregor-Splaver / Senior Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1asbjb85POfGQj-8gElKR9rYoUYgu2SeFYQFcvbQ6Wkg/edit"
       }
     }
   }
